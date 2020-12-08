@@ -6,6 +6,7 @@ public class SecondClass {
 		// TODO Auto-generated method stub
   System.out.println("Arwaan Quazi");
   System.out.println("Saifaan Quazi");
+  System.out.println("Moin Quazi");
 	}
 
 }
