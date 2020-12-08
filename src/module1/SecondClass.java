@@ -7,6 +7,7 @@ public class SecondClass {
   System.out.println("Arwaan Quazi");
   System.out.println("Saifaan Quazi");
   System.out.println("Moin Quazi");
+  System.out.println("Sumera Quazi");
 	}
 
 }
